@@ -1,0 +1,12 @@
+{
+  "databaseHost": "redis-16263.c275.us-east-1-2.ec2.cloud.redislabs.com",
+  "databasePort": 16263,
+  "databasePassword": "AAAAAAAAAAAAAAAAAAAAAAAAA",
+  "databaseName": "DovetailGraph",
+  "positiveSentiment": "p",
+  "negativeSentiment": "n",
+  "neutralSentiment":  "none",
+  "APIURL": "https://api.meaningcloud.com/sentiment-2.1?",
+  "APIKey": "AAAAAAAAAAAAAAAAAAAAAAAAA"
+}
+
